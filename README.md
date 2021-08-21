@@ -8,5 +8,5 @@
    
 2. In DB class, change SqlConnection to your own connection.
 
-3. In configuration class, change BotToken to your bot token.
+3. In configuration class, change BotToken to your bot token.<br />
    For additional information visit: https://core.telegram.org/bots
